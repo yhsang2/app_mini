@@ -1,8 +1,8 @@
-# Diorama Privacy Policy
+# Miniature Privacy Policy
 
 Effective date: November 7, 2026  ·  Last updated: November 7, 2026
 
-This Privacy Policy explains how **Diorama** (the “App”), provided by **[Developer / SANGHOON HAN]** (“we”, “us”, “our”), handles information when you use the App on your iPhone or iPad. Please read it carefully. By using the App, you acknowledge the practices described here.
+This Privacy Policy explains how **Miniature** (the “App”), provided by **[Developer / SANGHOON HAN]** (“we”, “us”, “our”), handles information when you use the App on your iPhone or iPad. Please read it carefully. By using the App, you acknowledge the practices described here.
 
 > **In short**
 >
